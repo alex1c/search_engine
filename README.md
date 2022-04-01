@@ -2,7 +2,7 @@
 
 search_engine/public/screen_gogle.png
 [Contribution guidelines for this project](public/screen_gogle.png)
-![alt text](https://github.com/alex1c/search_engine/public/screen_gogle.png?raw=true)
+![alt text](https://github.com/alex1c/search_engine/blob/master/public/screen_gogle.png?raw=true)
 search_engine/public/screen_gogle.png
 
 
