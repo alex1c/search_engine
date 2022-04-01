@@ -2,7 +2,8 @@
 
 search_engine/public/screen_gogle.png
 [Contribution guidelines for this project](public/screen_gogle.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/alex1c/search_engine/public/screen_gogle.png?raw=true)
+search_engine/public/screen_gogle.png
 
 
 
