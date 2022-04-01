@@ -1,5 +1,8 @@
 # google clone made with react and tailwindcss
 
+search_engine/public/screen_gogle.png
+[Contribution guidelines for this project](search_engine/public/screen_gogle.png)
+
 
 # Getting Started with Create React App
 
