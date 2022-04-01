@@ -1,4 +1,4 @@
-# google clone made with react and tailwindcss
+# Google clone made using React and Tailwindcss
 
 demo https://clonegooglethebest.netlify.app/search
 
